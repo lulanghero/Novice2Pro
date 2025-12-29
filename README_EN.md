@@ -1,7 +1,7 @@
 # Novice2Pro
 A Growth Assistant from Beginner to Professional Open Source Contributor
 
-[Simplified Chinese](./README.md) | English
+[简体中文](./README.md) | English
 
 ## 1. Project Overview
 
