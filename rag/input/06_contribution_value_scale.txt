@@ -1,0 +1,21 @@
+[ContributionType] StarRepository
+DifficultyLevel: VeryLow
+LearningValue: Low
+CommunityValue: Low
+BaseScore: 2
+GrowthImpactWeight: 0.1
+
+[ContributionType] OpenIssue
+DifficultyLevel: Low
+LearningValue: Medium
+CommunityValue: Medium
+BaseScore: 10
+GrowthImpactWeight: 0.4
+
+[ContributionType] SubmitPullRequest
+DifficultyLevel: High
+LearningValue: High
+CommunityValue: High
+BaseScore: 30
+GrowthImpactWeight: 0.8
+

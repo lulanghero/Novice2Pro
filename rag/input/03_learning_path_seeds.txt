@@ -1,0 +1,560 @@
+[SeedID] LP000
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.8
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP001
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.51
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP002
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.61
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP003
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.56
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP004
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.66
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP005
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.47
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP006
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.65
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP007
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.7
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP008
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.63
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP009
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.79
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP010
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.59
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP011
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.75
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP012
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.47
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP013
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.77
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP014
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.5
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP015
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.62
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP016
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.5
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP017
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.51
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP018
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.52
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP019
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.52
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP020
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.51
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP021
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.61
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP022
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.69
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP023
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.5
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP024
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.51
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP025
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.71
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP026
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.47
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP027
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.78
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP028
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.69
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP029
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.76
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP030
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.57
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP031
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.75
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP032
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.41
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP033
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.41
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP034
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.41
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP035
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.55
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP036
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.75
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP037
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.66
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP038
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.51
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP039
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.58
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP040
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.7
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP041
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.46
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP042
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.76
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP043
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.59
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP044
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.48
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP045
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.61
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP046
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.59
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP047
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.66
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP048
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.73
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP049
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.7
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP050
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.67
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP051
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.79
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP052
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.61
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP053
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.64
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP054
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.75
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP055
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.58
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP056
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.78
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP057
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.47
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP058
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.43
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP059
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.77
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP060
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.42
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP061
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.58
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP062
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.76
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP063
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.5
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP064
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.76
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP065
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.47
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP066
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.54
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP067
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.77
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP068
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.72
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP069
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.72
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP070
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.74
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP071
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.45
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP072
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.71
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP073
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.69
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP074
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.65
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP075
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.44
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP076
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.49
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP077
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.75
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP078
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.54
+LearningOutcome: FirstValidContribution
+
+[SeedID] LP079
+StartAction: OpenIssue
+FollowUpAction: SubmitPullRequest
+RequiredSupport: MaintainerFeedback
+TransitionProbability: 0.49
+LearningOutcome: FirstValidContribution
+
