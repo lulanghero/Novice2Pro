@@ -3,91 +3,193 @@ A Growth Assistant from Beginner to Professional Open Source Contributor
 
 [简体中文](./README.md) | English
 
-## 1. Project Overview
+## I. Project Background and Competition Alignment
 
-**Novice2Pror** is an open-source educational and incentive-oriented intelligent agent platform designed for beginners and growing developers.  
-Based on GitHub behavior logs and OpenDigger metric data, the project leverages AI Agent technologies to provide developers with:
+Following the COVID-19 pandemic, remote collaboration has become the mainstream model for software development, with GitHub emerging as one of the world's most critical open-source collaboration platforms.
+However, as the open-source ecosystem continues to expand, novice developers still commonly face the following structural challenges when entering open-source communities:
 
-- Open source project and task recommendations  
-- Data-driven learning path planning  
-- Explainable incentive mechanisms and growth feedback
+* Difficulty selecting projects, struggling to assess whether a project aligns with their skill level
+* Inability to gauge community health, with unclear indicators for issue/pull request activity
+* Delayed contribution feedback, lacking immediate recognition of personal contribution value
+* Fragmented learning paths, lacking systematic guidance from “novice” to “stable contributor”
 
----
-
-## 2. Competition Topic and Data Sources
-
-- Competition: :contentReference[oaicite:0]{index=0} Open Source Digital Ecosystem Analysis and Application Innovation Competition  
-- Topic Direction: Open Source Education and Open Source Incentives  
-- Data Sources:
-  - ContentReference[oaicite:1]{index=1} Global Logs (January 2020)
-  - GitHub Top 300 Repository Historical Logs (2020–2023)
-  - ContentReference[oaicite:2]{index=2} Metric Data (including OpenRank)
+The OpenSODA competition provides **GitHub global log data, historical logs of the Top 300 repositories, and the OpenDigger metric system**, offering a highly aligned data foundation for building open-source education and incentive systems based on “real behavioral data.”
 
 ---
 
-## 3. Core Problem Definition
+## II. Core Project Philosophy (Strong Consistency with Implementation)
 
-Common challenges faced by open source beginners include:
+Novice2Pro avoids fixing “a single data type” as system logic, instead adopting:
 
-- Not knowing which projects to start with  
-- Inability to judge whether a project is “beginner-friendly”  
-- Slow feedback on contributions, leading to easy dropout  
-- Lack of a systematic growth path  
+> **“RAG as the universal knowledge layer + Agent as the comprehension and scheduling layer”** architecture.
 
-This project aims to address these issues through data-driven and intelligent agent technologies.
+Under this design:
 
----
+* **The RAG system can integrate diverse knowledge repositories**
 
-## 4. Data Methodology (Fields — Questions — Functions)
+  * Open-source project behavioral data (OpenSODA dataset)
+  * Structured metrics from open-source communities (OpenRank / OpenDigger)
+  * Technical analyses, case studies, learning materials, etc.
+* **Agents are independent of specific data sources**
 
-| Field (Example) | Question Answered | Supported Function |
-| --- | --- | --- |
-| Issue creation frequency | Is it easy for beginners to participate? | Project entry barrier evaluation |
-| PR merge cycle | Is community feedback timely? | Project health assessment |
-| Contribution event types | Which stage is the user at? | Learning path planning |
-| OpenRank | Are contributions recognized? | Incentive and leveling system |
+  * Responsible solely for:
+      - How to retrieve information
+      - How to organize context
+      - How to output results in an explainable format
 
----
+Therefore, the current implementation of this project is:
 
-## 5. Technical Roadmap
+> **A universal RAG + Agent intelligent analysis framework for open-source education scenarios**
 
-Data Layer
-GitHub Logs + OpenRank
-      ↓
-Analysis Layer
-Behavior Statistics / Time Series / Graph Analysis
-      ↓
-Method Layer
-Path Generation / Recommendation Strategies / Incentive Models
-      ↓
-AI Agent Layer
-Recommendation Agent / Planning Agent / Incentive Agent
-      ↓
-Application Layer
-Open Source Education and Incentive Platform
+The competition data provided by OpenSODA serves as one of the most critical and central target knowledge sources for this framework.
 
 ---
 
-## 6. System Modules
+## III. Current System Capabilities (Implemented)
 
-- User profiling module  
-- Project and task recommendation module  
-- Learning path planning module  
-- Incentive and feedback module  
+### 3.1 Plug-and-play knowledge base GraphRAG system (Implemented)
+
+The system organizes knowledge using the GraphRAG approach:
+
+* Supports structuring data as:
+
+  * Entities (developers, projects, actions, metrics)
+  * Relationships (contributions, collaborations, impacts, timelines)
+* Enables the following based on queries:
+
+  * Retrieval of highly relevant facts
+  * Tracing entity-relationship paths
+  * Reconstruction of action sequences and timelines
+
+**Key Features:**
+
+* Replaceable knowledge base content
+* Domain-agnostic data handling
+* Schema-independent architecture
+
+This enables the system to:
+
+* Currently: Integrate with example/analytical knowledge bases for capability validation
+* Future: Seamlessly incorporate OpenSODA official datasets to build an open-source behavioral knowledge graph
 
 ---
 
-## 7. Project Value
+### 3.2 Agent-Driven Retrieval and Output Orchestration (Implemented)
 
-- Lowering the entry barrier for open source education  
-- Improving beginner retention and growth efficiency  
-- Providing reusable open source education tools for universities and communities  
-- Enriching digital governance approaches in the open source ecosystem  
+The system introduces an Agent layer, designed not as a “chatbot” but as:
+
+> **Task-oriented, analytical Agents**
+
+Agent responsibilities include:
+
+* Controlling RAG retrieval strategies
+* Constraining output formats (e.g., [References])
+* Managing prompt and context construction
+* Preventing multi-turn dialogues from contaminating knowledge retrieval
+
+This design is highly suitable for:
+
+* Learning path analysis
+* Project feature explanation
+* Behavioral pattern induction
+* “Explanation-first” requirements in educational and motivational scenarios
 
 ---
 
-## 8. Open Source and Acknowledgements
+### 3.3 OpenAI-Compatible Interface (Implemented)
 
-This project is built upon the open data and metric system provided by OpenSODA. We sincerely thank the open source community for its continuous contributions.
+The system provides a standard external interface:
+
+```http
+POST /v1/chat/completions
+```
+
+Features include:
+
+* Direct integration with frontends (e.g., newchat)
+* Unified model management via one-api
+* Unified call entry point for future multi-agent/multi-task systems
+
+---
+
+## IV. Alignment with Novice2Pro Objectives
+
+The current version is not a complete platform system, but rather the **core intelligent analysis engine prototype for Novice2Pro**.
+
+| Novice2Pro Objective            | Current System Support Method                |
+| ------------------- | ----------------------- |
+| Novice Learning Path Understanding | Outputs explainable facts via behavior and relationship retrieval        |
+| Project Recommendation Basis              | RAG provides evidence of project behavior and health status     |
+| Contribution Value Explanation              | Provides contextual explanation capabilities for metrics like OpenRank |
+| Incentive Mechanism Design              | Constructs upper-layer rules based on Agent outputs (planned)  |
+| Multi-Agent Collaboration          | Architecture reserved; currently verifies capabilities with a single Agent    |
+
+---
+
+## V. System Architecture Overview
+
+```text
+┌──────────────┐
+│  Knowledge   │  ← Replaceable (OpenSODA / OpenRank / Documentation)
+│   Sources    │
+└──────┬───────┘
+       │
+┌──────▼───────┐
+│   GraphRAG   │  ← Entity / Relationship / Temporal Modeling
+└──────┬───────┘
+       │
+┌──────▼───────┐
+│     Agent    │  ← Retrieval Control / Output Constraints
+└──────┬───────┘
+       │
+┌──────▼───────┐
+│  API Layer   │  ← /v1/chat/completions
+└──────────────┘
+```
+
+---
+
+## 6. Current Project Structure (Consistent with Implementation)
+
+```text
+agent_orchestrator/
+├─ agents/
+│  └─ graphrag_agent.py
+├─ config/
+│  └─ settings.py
+├─ core/
+│  └─ orchestrator.py
+├─ models/
+│  └─ schemas.py
+├─ prompts/
+│  └─ summarize.txt
+├─ main.py
+└─ .env
+```
+
+---
+
+## VII. Future Work and Competition Expansion Directions
+
+While maintaining the current architecture, the system can be further expanded to:
+
+* Integrate OpenSODA's official GitHub behavior logs
+* Constructing a knowledge graph for novice learning stages
+* Mapping OpenRank metrics to interpretable incentive signals
+* Introducing multi-agent division of labor (recommendation / planning / incentivization)
+
+---
+
+## VIII. Conclusion
+
+Novice2Pro adopts a **universal intelligent architecture design combining RAG and agents**. Through its pluggable knowledge base mechanism, it provides unified intelligent analysis capabilities for diverse open-source education and incentive scenarios.
+
+The current implementation has validated:
+
+* Architectural feasibility
+* Interpretability advantages
+* Native compatibility with OpenSODA data
+
+This lays a solid foundation for building a comprehensive open-source education and incentive platform in the future.
 
 ---
