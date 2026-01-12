@@ -109,8 +109,8 @@ The Agent itself **is not tied to specific datasets** and can be reused across d
 
 ### Responsibilities of one-api
 
-| Function     | Description                 |
-| ------ | ----------------- - |
+| Function     | Description               |
+| ------ | ------------------ |
 | Model Routing | Unified management of local/cloud models      |
 | Key Management | User-configurable             |
 | Unified API | Decoupling RAG / Agent / Frontend |
