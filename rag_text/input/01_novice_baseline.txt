@@ -1,0 +1,800 @@
+[EventID] NB000
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 6
+
+[EventID] NB001
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 22
+
+[EventID] NB002
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 30
+
+[EventID] NB003
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 19
+
+[EventID] NB004
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 17
+
+[EventID] NB005
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 20
+
+[EventID] NB006
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 22
+
+[EventID] NB007
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 30
+
+[EventID] NB008
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 29
+
+[EventID] NB009
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 13
+
+[EventID] NB010
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 5
+
+[EventID] NB011
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 19
+
+[EventID] NB012
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 22
+
+[EventID] NB013
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 26
+
+[EventID] NB014
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 15
+
+[EventID] NB015
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 15
+
+[EventID] NB016
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 23
+
+[EventID] NB017
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 8
+
+[EventID] NB018
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 25
+
+[EventID] NB019
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 23
+
+[EventID] NB020
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 9
+
+[EventID] NB021
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 21
+
+[EventID] NB022
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 19
+
+[EventID] NB023
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 27
+
+[EventID] NB024
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 2
+
+[EventID] NB025
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 23
+
+[EventID] NB026
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 20
+
+[EventID] NB027
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 19
+
+[EventID] NB028
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 9
+
+[EventID] NB029
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 27
+
+[EventID] NB030
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 27
+
+[EventID] NB031
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 6
+
+[EventID] NB032
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 28
+
+[EventID] NB033
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 28
+
+[EventID] NB034
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 11
+
+[EventID] NB035
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 22
+
+[EventID] NB036
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 12
+
+[EventID] NB037
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 29
+
+[EventID] NB038
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 9
+
+[EventID] NB039
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 7
+
+[EventID] NB040
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 6
+
+[EventID] NB041
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 6
+
+[EventID] NB042
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 11
+
+[EventID] NB043
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 6
+
+[EventID] NB044
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 15
+
+[EventID] NB045
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 20
+
+[EventID] NB046
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 24
+
+[EventID] NB047
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 17
+
+[EventID] NB048
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 15
+
+[EventID] NB049
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 9
+
+[EventID] NB050
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 25
+
+[EventID] NB051
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 12
+
+[EventID] NB052
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 14
+
+[EventID] NB053
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 25
+
+[EventID] NB054
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 11
+
+[EventID] NB055
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 15
+
+[EventID] NB056
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 16
+
+[EventID] NB057
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 30
+
+[EventID] NB058
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 5
+
+[EventID] NB059
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 29
+
+[EventID] NB060
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 5
+
+[EventID] NB061
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 26
+
+[EventID] NB062
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 24
+
+[EventID] NB063
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 26
+
+[EventID] NB064
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 21
+
+[EventID] NB065
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 19
+
+[EventID] NB066
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 10
+
+[EventID] NB067
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 25
+
+[EventID] NB068
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 12
+
+[EventID] NB069
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: CommentIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 10
+
+[EventID] NB070
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 6
+
+[EventID] NB071
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 22
+
+[EventID] NB072
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 4
+
+[EventID] NB073
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 1
+
+[EventID] NB074
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 10
+
+[EventID] NB075
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 28
+
+[EventID] NB076
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 10
+
+[EventID] NB077
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.2
+TimeOrder: 7
+
+[EventID] NB078
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: StarRepository
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.3
+TimeOrder: 16
+
+[EventID] NB079
+ActorRole: NoviceDeveloper
+ActorStage: FirstMonth
+Action: OpenIssue
+TargetType: Repository
+TargetRole: EntryProject
+SemanticMeaning: LearningInitiation
+ContributionWeight: 0.1
+TimeOrder: 24
+

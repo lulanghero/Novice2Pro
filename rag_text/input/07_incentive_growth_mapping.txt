@@ -1,0 +1,160 @@
+[GrowthRuleID] GR00
+TriggerContribution: IssueResolved
+RewardType: LevelUp
+RewardName: ActiveContributor
+ScoreIncrement: 98
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR01
+TriggerContribution: IssueResolved
+RewardType: Badge
+RewardName: ActiveContributor
+ScoreIncrement: 26
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR02
+TriggerContribution: FirstPRMerged
+RewardType: Badge
+RewardName: ActiveContributor
+ScoreIncrement: 20
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR03
+TriggerContribution: FirstPRMerged
+RewardType: Badge
+RewardName: RisingStar
+ScoreIncrement: 25
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR04
+TriggerContribution: FirstPRMerged
+RewardType: LevelUp
+RewardName: RisingStar
+ScoreIncrement: 46
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR05
+TriggerContribution: FirstPRMerged
+RewardType: LevelUp
+RewardName: FirstContribution
+ScoreIncrement: 88
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR06
+TriggerContribution: FiveContributions
+RewardType: Badge
+RewardName: ActiveContributor
+ScoreIncrement: 26
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR07
+TriggerContribution: FirstPRMerged
+RewardType: Score
+RewardName: FirstContribution
+ScoreIncrement: 86
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR08
+TriggerContribution: FirstPRMerged
+RewardType: Badge
+RewardName: FirstContribution
+ScoreIncrement: 60
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR09
+TriggerContribution: FirstPRMerged
+RewardType: LevelUp
+RewardName: RisingStar
+ScoreIncrement: 75
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR10
+TriggerContribution: FirstPRMerged
+RewardType: LevelUp
+RewardName: FirstContribution
+ScoreIncrement: 19
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR11
+TriggerContribution: FiveContributions
+RewardType: Score
+RewardName: RisingStar
+ScoreIncrement: 46
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR12
+TriggerContribution: IssueResolved
+RewardType: LevelUp
+RewardName: RisingStar
+ScoreIncrement: 61
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR13
+TriggerContribution: FirstPRMerged
+RewardType: LevelUp
+RewardName: RisingStar
+ScoreIncrement: 41
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR14
+TriggerContribution: IssueResolved
+RewardType: LevelUp
+RewardName: RisingStar
+ScoreIncrement: 73
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR15
+TriggerContribution: IssueResolved
+RewardType: LevelUp
+RewardName: ActiveContributor
+ScoreIncrement: 92
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR16
+TriggerContribution: IssueResolved
+RewardType: Score
+RewardName: ActiveContributor
+ScoreIncrement: 46
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR17
+TriggerContribution: FiveContributions
+RewardType: Score
+RewardName: ActiveContributor
+ScoreIncrement: 58
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR18
+TriggerContribution: FiveContributions
+RewardType: LevelUp
+RewardName: ActiveContributor
+ScoreIncrement: 27
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
+[GrowthRuleID] GR19
+TriggerContribution: IssueResolved
+RewardType: LevelUp
+RewardName: ActiveContributor
+ScoreIncrement: 95
+LevelUpImpact: Yes
+CommunityHealthImpact: Positive
+
