@@ -62,7 +62,7 @@ The RAG (Retrieval-Augmented Generation) in this project is not simple text retr
 ### 4.2 Core Responsibilities of RAG
 
 | Capability  | Description                 |
-| ---- | ----------------- - |
+| ---- | ----------------- |
 | Entity Extraction | Developers, projects, issues, PRs, metrics |
 | Relationship Modeling | Behavioral sequences, collaboration ties, lifecycles     |
 | Description Summarization | Transforming logs into “human-readable facts”     |
